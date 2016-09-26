@@ -1,1 +1,0 @@
-# jiche-scrapy
